@@ -1,0 +1,10 @@
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\bin\Debug\DapperDemo.Models.Tests.dll.config
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\bin\Debug\DapperDemo.Models.Tests.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\bin\Debug\DapperDemo.Models.Tests.pdb
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\bin\Debug\DapperDemo.Models.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\bin\Debug\Dapper.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\bin\Debug\DapperDemo.Models.pdb
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\bin\Debug\Dapper.xml
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\obj\Debug\DapperDemo.Models.Tests.csprojResolveAssemblyReference.cache
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\obj\Debug\DapperDemo.Models.Tests.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Models.Tests\obj\Debug\DapperDemo.Models.Tests.pdb

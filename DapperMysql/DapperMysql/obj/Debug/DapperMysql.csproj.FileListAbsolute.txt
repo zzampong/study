@@ -1,0 +1,11 @@
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\DapperMysql.exe.config
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\DapperMysql.exe
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\DapperMysql.pdb
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\DapperMysql.Models.dll
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\Dapper.dll
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\DapperMysql.Models.pdb
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\Dapper.xml
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\obj\Debug\DapperMysql.csprojResolveAssemblyReference.cache
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\obj\Debug\DapperMysql.exe
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\obj\Debug\DapperMysql.pdb
+H:\데브렉강좌\Dapper\DapperMysql\DapperMysql\bin\Debug\MySql.Data.dll

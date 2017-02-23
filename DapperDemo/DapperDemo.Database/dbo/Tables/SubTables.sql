@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[SubTables]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Note] NVARCHAR(MAX) NULL, 
+    [TableId] INT NULL
+)

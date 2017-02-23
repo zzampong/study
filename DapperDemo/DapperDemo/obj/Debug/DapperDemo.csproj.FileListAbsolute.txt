@@ -1,0 +1,10 @@
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe.config
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\bin\Debug\DapperDemo.pdb
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\bin\Debug\DapperDemo.Models.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\bin\Debug\Dapper.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\bin\Debug\DapperDemo.Models.pdb
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\bin\Debug\Dapper.xml
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\obj\Debug\DapperDemo.exe
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo\obj\Debug\DapperDemo.pdb

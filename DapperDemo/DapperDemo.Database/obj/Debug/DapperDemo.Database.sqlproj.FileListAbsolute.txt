@@ -1,0 +1,9 @@
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\bin\Debug\DapperDemo.Database.dacpac
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\bin\Debug\DapperDemo.Database.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\bin\Debug\DapperDemo.Database.pdb
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\obj\Debug\DapperDemo.Database.dll
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\obj\Debug\DapperDemo.Database.pdb
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\obj\Debug\Model.xml
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\obj\Debug\refactor.xml
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\obj\Debug\postdeploy.sql
+H:\데브렉강좌\Dapper\DapperDemo\DapperDemo.Database\obj\Debug\predeploy.sql
